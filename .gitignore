@@ -1,6 +1,8 @@
 .credentials/
 client_secrets.json
 spreadsheet_downloads/
+scoring.txt
+scores/
 
 
 # Byte-compiled / optimized / DLL files
